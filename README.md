@@ -1,5 +1,5 @@
 # Image-Cropping
-对图片进行批量固定比例裁切，无画质损耗
+对图片进行批量固定比例裁切
 
 ![image](https://github.com/user-attachments/assets/1689ca22-710a-419e-967c-251f9c43f985)
 
